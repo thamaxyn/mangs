@@ -1,0 +1,15 @@
+{
+  "name": "mangs lily",
+  "version": 1,
+  "lang": "pt-BR",
+  "author": "thamyn",
+  "website": "https://lilymanga.net/",
+  "icon": "https://github.com/thamaxyn/mangs/blob/main/Lily-Manga-1.png",
+  "catalogues": [
+    {
+      "name": "Mangás",
+      "lang": "pt-BR",
+      "id": "https://github.com/thamaxyn/mangs/catalogue.json"
+    }
+  ]
+}
